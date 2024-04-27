@@ -1,0 +1,56 @@
+1.	HTML:
+•	Etimoloji: "Hypertext Markup Language" kelimelerinin kısaltmasıdır.
+•	Anlamı: İnternet üzerinde belgelerin yapısını tanımlamak için kullanılan standart bir işaretleme dilidir.
+2.	CSS:
+•	Etimoloji: "Cascading Style Sheets" kelimelerinin kısaltmasıdır.
+•	Anlamı: HTML veya XML tabanlı belgelerin görünümünü ve düzenini kontrol etmek için kullanılan bir stil dilidir.
+3.	Bootstrap:
+•	Etimoloji: İngilizce'de "kendini çekme hali" veya "ayakkabıyı kendi başına çıkarma" anlamına gelir.
+•	Anlamı: HTML ve CSS tabanlı web tasarımı için popüler bir açık kaynaklı framework'tür.
+4.	ASP.NET Core:
+•	Etimoloji: "Active Server Pages" (ASP) ve ".NET Core" kelimelerinin birleşimidir.
+•	Anlamı: Microsoft tarafından geliştirilen, açık kaynaklı, çoklu platformda çalışabilen bir web uygulama çatısıdır.
+5.	MVC (Model-View-Controller):
+•	Etimoloji: Yazılım mühendisliği tasarım deseni olan "Model-Görünüm-Kontrolcü" deseninin kısaltmasıdır.
+•	Anlamı: Uygulama mantığını, verileri ve kullanıcı arayüzünü ayrı bileşenlere ayıran bir mimari modeldir.
+6.	JavaScript:
+•	Etimoloji: İngilizce'de "İsa'nın arkadaşı" veya "kurtarıcının yardımcısı" anlamına gelir.
+•	Anlamı: Web tarayıcılarında çalışan bir betik dilidir ve web sayfalarını etkileşimli hale getirmek için kullanılır.
+7.	View Data:
+•	Anlamı: MVC mimarisinde, kontrolcü tarafından görünüme (view) gönderilen verilerdir.
+8.	Weather:
+•	Etimoloji: İngilizce'de "hava durumu" anlamına gelir.
+•	Anlamı: Atmosferde meydana gelen meteorolojik olayların durumu ve tahmini.
+9.	Controller ve Actions:
+•	Anlamı: MVC mimarisinde kullanıcı isteklerini karşılayan kontrolcü bileşenleri ve bu bileşenlerin içinde bulunan işlevlerdir (actions).
+10.	Dependency Injection:
+•	Anlamı: Bir bileşenin, diğer bağımlı bileşenlerini dışarıdan almasına ve bunları içine enjekte etmesine olanak sağlayan bir tasarım desenidir.
+11.	API Key ve HttpClient:
+•	Anlamı: Web API'lere kimlik doğrulaması yapmak için kullanılan anahtarlar ve bu API'lere HTTP istekleri yapmak için kullanılan HttpClient sınıfı.
+12.	Veri Modelleri:
+•	Anlamı: Bir uygulamanın veri yapılarını ve iş mantığını temsil eden sınıflar veya nesnelerdir.
+13.	JSON (JavaScript Object Notation):
+•	Anlamı: Hafif bir veri değişim formatıdır ve insanlar tarafından okunması ve yazılması kolaydır.
+14.	jQuery:
+•	Anlamı: JavaScript kütüphanesidir ve HTML belgeleri üzerinde olay dinleme, animasyon, AJAX etkileşimleri ve DOM manipülasyonu gibi işlemleri kolaylaştırır.
+15.	Query Validate:
+•	Anlamı: Kullanıcı girişlerinin doğrulanması ve uygunluk kontrolü için kullanılan bir tekniktir.
+16.	Faz Uzayı Diagramı:
+•	Anlamı: Bir sistemin dinamik davranışını, değişkenlerin birbirleriyle olan ilişkilerini ve sistem durumlarını gösteren bir grafik modeldir.
+17.	Poincaré Haritası (Map):
+•	Anlamı: Dinamik sistemlerin tekrarlanan davranışlarını incelemek için kullanılan matematiksel bir araçtır.
+18.	SWOT Analizi:
+•	Anlamı: Bir işletmenin iç ve dış faktörlerini (güçlü yönler, zayıf yönler, fırsatlar, tehditler) değerlendiren bir stratejik planlama aracıdır.
+
+
+19.	Fizibilite Analizi:
+•	Anlamı: Bir proje veya işletme fikrinin gerçekleştirilebilirliğini ve karlılığını değerlendiren bir çalışmadır.
+20.	Kaotik Uzay:
+•	Anlamı: Kaotik sistemlerin davranışlarını ifade eden matematiksel bir kavramdır.
+21.	OOP (Object-Oriented Programming):
+•	Anlamı: Nesne yönelimli programlama, programlamada bir yaklaşımı ifade eder; programı nesnelerin birbirleriyle etkileşimini temsil eden yapılar olarak düşünür.
+22.	Lyapunov Exponents:
+•	Anlamı: Dinamik sistemlerin kararsızlık derecesini ölçen bir matematiksel kavramdır.
+23.	Fraktal Modelleme:
+•	Anlamı: Doğadaki karmaşık yapıları ve desenleri matematiksel olarak modellemek için kullanılan bir tekniktir.
+PROJE İÇİNDE DEĞİŞİKLİKLER YAPILDIKÇA GÜNCELLENECEKTİR
